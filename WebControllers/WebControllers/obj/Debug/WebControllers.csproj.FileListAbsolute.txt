@@ -1,0 +1,5 @@
+C:\Users\Emre\Desktop\ASP_NET Examples\WebControllers\WebControllers\bin\WebControllers.dll
+C:\Users\Emre\Desktop\ASP_NET Examples\WebControllers\WebControllers\bin\WebControllers.pdb
+C:\Users\Emre\Desktop\ASP_NET Examples\WebControllers\WebControllers\obj\Debug\WebControllers.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\ASP_NET Examples\WebControllers\WebControllers\obj\Debug\WebControllers.dll
+C:\Users\Emre\Desktop\ASP_NET Examples\WebControllers\WebControllers\obj\Debug\WebControllers.pdb
